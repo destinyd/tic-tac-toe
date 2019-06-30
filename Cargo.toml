@@ -1,0 +1,7 @@
+[package]
+name = "qi"
+version = "0.1.0"
+authors = ["destinyd <destinyd_war@163.com>"]
+edition = "2018"
+
+[dependencies]
